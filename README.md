@@ -61,7 +61,7 @@
 <img src="https://github.com/devicons/devicon/blob/master/icons/vuejs/vuejs-original-wordmark.svg" title="Vue JS" alt="VueJS" width="40" height="40"/>&nbsp;
 </a>
 
-<a href="https://dotnet.microsoft.com/en-us/apps/aspnet" rel="nofollow"> 
+<a href="https://angular.io/" rel="nofollow"> 
 <img src="https://github.com/devicons/devicon/blob/master/icons/angularjs/angularjs-original-wordmark.svg" title="AngularJS" alt="AngularJS" width="40" height="40"/>&nbsp;
 </a>
 
