@@ -38,6 +38,9 @@
 <img src="https://github.com/devicons/devicon/blob/master/icons/materialui/materialui-original.svg" title="MaterialUI" alt="MaterialUI" width="40" height="40"/>&nbsp;
 </a>
 <a href="https://dotnet.microsoft.com/en-us/apps/aspnet" rel="nofollow"> 
+<img src="https://github.com/devicons/devicon/blob/master/icons/react/react-original-wordmark.svg" title="ReactJS" alt="ReactJS" width="40" height="40"/>&nbsp;
+</a>
+<a href="https://dotnet.microsoft.com/en-us/apps/aspnet" rel="nofollow"> 
 <img src="https://github.com/devicons/devicon/blob/master/icons/nodejs/nodejs-original-wordmark.svg" title="NodeJS" alt="NodeJS" width="40" height="40"/>&nbsp;
 </a>
 <a href="https://dotnet.microsoft.com/en-us/apps/aspnet" rel="nofollow"> 
@@ -80,13 +83,6 @@
 <img src="https://github.com/devicons/devicon/blob/master/icons/java/java-original-wordmark.svg" title="Java" alt="Java" width="40" height="40"/>&nbsp;
 </a>
 </div>  
-
-
-
-
-
-
-
 <!--
 **hardik7344/hardik7344** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
