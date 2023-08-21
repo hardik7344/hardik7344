@@ -34,7 +34,9 @@
 
 🚀 Let's collaborate on some exciting projects! Whether it's bringing innovative ideas to life or diving into the nitty-gritty of code, I'm always up for the challenge. Connect with me and let's make the tech world a more incredible place together.
 
-MailBox : How to reach me: [![Linkedin Badge](https://img.shields.io/badge/-kakbar-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/patel-hardik-894734207/)
+Mailbox: How to reach me: <a href="https://www.linkedin.com/in/patel-hardik-894734207/">
+    <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
+  </a>
 
 ### :hammer_and_wrench: Languages and Tools :
 <div align: left>
