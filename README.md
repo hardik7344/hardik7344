@@ -57,7 +57,7 @@
 <a href="https://nextjs.org/" rel="nofollow"> 
 <img src="https://github.com/devicons/devicon/blob/master/icons/nextjs/nextjs-original-wordmark.svg" title="Next JS" alt="NextJS" width="40" height="40"/>&nbsp;
 </a>
-<a href="https://dotnet.microsoft.com/en-us/apps/aspnet" rel="nofollow"> 
+<a href="https://vuejs.org/" rel="nofollow"> 
 <img src="https://github.com/devicons/devicon/blob/master/icons/vuejs/vuejs-original-wordmark.svg" title="Vue JS" alt="VueJS" width="40" height="40"/>&nbsp;
 </a>
 
