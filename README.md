@@ -51,7 +51,7 @@
 <a href="https://legacy.reactjs.org/tutorial/tutorial.html" rel="nofollow"> 
 <img src="https://github.com/devicons/devicon/blob/master/icons/react/react-original-wordmark.svg" title="ReactJS" alt="ReactJS" width="40" height="40"/>&nbsp;
 </a>
-<a href="https://dotnet.microsoft.com/en-us/apps/aspnet" rel="nofollow"> 
+<a href="https://www.w3schools.com/nodejs/" rel="nofollow"> 
 <img src="https://github.com/devicons/devicon/blob/master/icons/nodejs/nodejs-original-wordmark.svg" title="NodeJS" alt="NodeJS" width="40" height="40"/>&nbsp;
 </a>
 <a href="https://dotnet.microsoft.com/en-us/apps/aspnet" rel="nofollow"> 
