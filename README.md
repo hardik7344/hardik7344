@@ -28,6 +28,13 @@
 </div>
 
 ### :man_technologist: About Me :
+👋 Hello, I'm Hardik Patel, a dedicated developer with a passion for crafting robust web applications and microservices. My expertise lies in ASP.NET Core Web API, ASP.NET MVC, MSSQL, and MYSQL. I thrive on taking on challenging projects and turning them into amazing solutions.
+
+💻 When I'm not engrossed in code, I'm a fervent problem solver, constantly honing my skills in machine learning and coding. Learning new languages is my jam, and I'm all about creating user-friendly applications that leave a lasting impact.
+
+🚀 Let's collaborate on some exciting projects! Whether it's bringing innovative ideas to life or diving into the nitty-gritty of code, I'm always up for the challenge. Connect with me and let's make the tech world a more incredible place together.
+
+- :mailbox:How to reach me: [![Linkedin Badge](https://img.shields.io/badge/-kakbar-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/patel-hardik-894734207/)
 
 ### :hammer_and_wrench: Languages and Tools :
 <div align: left>
