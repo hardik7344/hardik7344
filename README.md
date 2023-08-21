@@ -30,7 +30,7 @@
 
 ### :hammer_and_wrench: Languages and Tools :
 <div align: left>
-  <a href="https://dotnet.microsoft.com/en-us/apps/aspnet" rel="nofollow"> 
+  <a href="https://www.w3schools.com/html/" rel="nofollow"> 
 <img src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-original-wordmark.svg" title="HTML5" alt="Html5" width="40" height="40"/>&nbsp;
 </a>
 <a href="https://dotnet.microsoft.com/en-us/apps/aspnet" rel="nofollow"> 
