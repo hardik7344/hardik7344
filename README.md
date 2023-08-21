@@ -90,7 +90,7 @@
 <img src="https://github.com/devicons/devicon/blob/master/icons/android/android-original-wordmark.svg" title="Android" alt="Android" width="40" height="40"/>&nbsp;
 </a>
 
-<a href="https://www.w3schools.com/java" rel="nofollow"> 
+<a href="https://www.geeksforgeeks.org/java/" rel="nofollow"> 
 <img src="https://github.com/devicons/devicon/blob/master/icons/java/java-original-wordmark.svg" title="Java" alt="Java" width="40" height="40"/>&nbsp;
 </a>
 <a href="https://www.w3schools.com/java" rel="nofollow"> 
