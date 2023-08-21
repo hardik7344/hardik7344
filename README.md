@@ -33,8 +33,8 @@
   <a href="https://www.w3schools.com/html/" rel="nofollow"> 
 <img src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-original-wordmark.svg" title="HTML5" alt="Html5" width="40" height="40"/>&nbsp;
 </a>
-<a href="https://dotnet.microsoft.com/en-us/apps/aspnet" rel="nofollow"> 
-<img src="https://github.com/devicons/devicon/blob/master/icons/css3/css3-original-wordmark.svg" title="CSS3" alt="ASP.NET" width="40" height="40"/>&nbsp;
+<a href="https://www.w3schools.com/css/" rel="nofollow"> 
+<img src="https://github.com/devicons/devicon/blob/master/icons/css3/css3-original-wordmark.svg" title="CSS3" alt="CSS3" width="40" height="40"/>&nbsp;
 </a>
 <a href="https://dotnet.microsoft.com/en-us/apps/aspnet" rel="nofollow"> 
 <img src="https://github.com/devicons/devicon/blob/master/icons/tailwindcss/tailwindcss-original-wordmark.svg" title="Tailwindcss" alt="Tailwindcss" width="40" height="40"/>&nbsp;
