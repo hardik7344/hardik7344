@@ -80,13 +80,6 @@
 <img src="https://github.com/devicons/devicon/blob/master/icons/vscode" title="Visual Studio Code" alt="visualstudiocode" width="40" height="40"/>&nbsp;
 </a>
 
-<a href="https://dotnet.microsoft.com/en-us/apps/aspnet" rel="nofollow"> 
-<img src="https://github.com/devicons/devicon/blob/master/icons/visualstudio/visualstudio-plain-wordmark.svg" title="Visual Studio" alt="visulStudio" width="40" height="40"/>&nbsp;
-</a>
-
-<a href="https://dotnet.microsoft.com/en-us/apps/aspnet" rel="nofollow"> 
-<img src="https://github.com/devicons/devicon/blob/master/icons/dot-net/dot-net-original-wordmark.svg" title="ASP.NET" alt="ASP.NET" width="40" height="40"/>&nbsp;
-</a>
 <a href="https://www.w3schools.com/java" rel="nofollow"> 
 <img src="https://github.com/devicons/devicon/blob/master/icons/java/java-original-wordmark.svg" title="Java" alt="Java" width="40" height="40"/>&nbsp;
 </a>
