@@ -1,7 +1,7 @@
 ### :fire: My Stats :
 
 <div >
-[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=your-hardik7344&theme=dark&background=000000)](https://git.io/streak-stats)
+[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=hardik7344&theme=dark&border_radius=6&exclude_days=Sun%2CMon%2CTue%2CWed%2CThu%2CFri%2CSat)](https://git.io/streak-stats)
   
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=hardik7344&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
 </div>
