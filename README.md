@@ -74,7 +74,7 @@
 <a href="https://www.w3schools.com/MySQL/default.asp" rel="nofollow"> 
 <img src="https://github.com/devicons/devicon/blob/master/icons/mysql/mysql-original-wordmark.svg" title="MySQL" alt="MySQL" width="40" height="40"/>&nbsp;
 </a>
-<a href="https://dotnet.microsoft.com/en-us/apps/aspnet" rel="nofollow"> 
+<a href="https://www.tutorialspoint.com/sqlite/" rel="nofollow"> 
 <img src="https://github.com/devicons/devicon/blob/master/icons/sqlite/sqlite-original-wordmark.svg" title="SQLLite" alt="SQLLite" width="40" height="40"/>&nbsp;
 </a>
 <a href="https://dotnet.microsoft.com/en-us/apps/aspnet" rel="nofollow"> 
